@@ -1,0 +1,2 @@
+# leetcode
+A  new journey
