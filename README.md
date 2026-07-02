@@ -14,6 +14,7 @@ A  new journey
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raunak2810/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunak2810/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -83,4 +84,12 @@ A  new journey
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
