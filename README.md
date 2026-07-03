@@ -11,6 +11,7 @@ A  new journey
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A  new journey
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A  new journey
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A  new journey
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -80,10 +84,12 @@ A  new journey
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +98,8 @@ A  new journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
