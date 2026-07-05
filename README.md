@@ -13,6 +13,7 @@ A  new journey
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3637-trionic-array-i](https://github.com/Raunak2810/leetcode/tree/master/3637-trionic-array-i) |
 ## String
 |  |
 | ------- |
