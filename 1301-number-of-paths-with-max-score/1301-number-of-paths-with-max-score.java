@@ -1,6 +1,6 @@
 class Solution {
     public int[] pathsWithMaxScore(List<String> board){
-                int n = board.size();
+        int n = board.size();
         int MOD = 1_000_000_007;
         int[][] score = new int[n][n];
         int[][] ways = new int[n][n];
