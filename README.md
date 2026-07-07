@@ -56,10 +56,12 @@ A  new journey
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Raunak2810/leetcode/tree/master/0110-balanced-binary-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Raunak2810/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunak2810/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
@@ -113,4 +115,8 @@ A  new journey
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Raunak2810/leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
