@@ -125,4 +125,8 @@ A  new journey
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raunak2810/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/Raunak2810/leetcode/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
