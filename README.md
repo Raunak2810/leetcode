@@ -129,4 +129,5 @@ A  new journey
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/Raunak2810/leetcode/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/Raunak2810/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
