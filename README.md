@@ -12,6 +12,7 @@ A  new journey
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunak2810/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunak2810/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raunak2810/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Raunak2810/leetcode/tree/master/3637-trionic-array-i) |
@@ -35,6 +36,7 @@ A  new journey
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raunak2810/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunak2810/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A  new journey
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunak2810/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -82,6 +85,7 @@ A  new journey
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunak2810/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunak2810/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A  new journey
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunak2810/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunak2810/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Raunak2810/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
