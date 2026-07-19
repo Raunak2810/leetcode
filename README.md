@@ -26,6 +26,7 @@ A  new journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0761-special-binary-string](https://github.com/Raunak2810/leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunak2810/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raunak2810/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunak2810/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +41,7 @@ A  new journey
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Raunak2810/leetcode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunak2810/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunak2810/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +191,7 @@ A  new journey
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Raunak2810/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Raunak2810/leetcode/tree/master/0761-special-binary-string) |
 ## Simulation
 |  |
 | ------- |
