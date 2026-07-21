@@ -6,6 +6,7 @@ A  new journey
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raunak2810/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunak2810/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunak2810/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +128,7 @@ A  new journey
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raunak2810/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunak2810/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunak2810/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunak2810/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -195,6 +197,7 @@ A  new journey
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raunak2810/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raunak2810/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
