@@ -6,6 +6,7 @@ A  new journey
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunak2810/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Raunak2810/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunak2810/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -47,6 +48,7 @@ A  new journey
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunak2810/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Raunak2810/leetcode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunak2810/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -69,6 +71,7 @@ A  new journey
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunak2810/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunak2810/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunak2810/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunak2810/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
