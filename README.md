@@ -11,6 +11,7 @@ A  new journey
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunak2810/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunak2810/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/Raunak2810/leetcode/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunak2810/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Raunak2810/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunak2810/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
