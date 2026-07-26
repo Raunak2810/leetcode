@@ -6,6 +6,7 @@ A  new journey
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Raunak2810/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunak2810/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Raunak2810/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Raunak2810/leetcode/tree/master/1288-remove-covered-intervals) |
