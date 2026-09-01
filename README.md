@@ -48,6 +48,7 @@ A  new journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0290-word-pattern](https://github.com/Raunak2810/leetcode/tree/master/0290-word-pattern) |
 | [0761-special-binary-string](https://github.com/Raunak2810/leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunak2810/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raunak2810/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -94,6 +95,7 @@ A  new journey
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Raunak2810/leetcode/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunak2810/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raunak2810/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Raunak2810/leetcode/tree/master/1386-cinema-seat-allocation) |
